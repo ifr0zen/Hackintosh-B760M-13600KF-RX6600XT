@@ -1,1 +1,10 @@
 # MSI-B760M-Mortar-DDR4-13600KF
+
+| 硬件 | 型号 |
+| :-----| ----: |
+| CPU | i5 13600KF |
+| 主板 | MSI B760M MORTAR DDR4 |
+| 内存 | 64G （金百达 DDR4 3600MHz 32Gx2) |
+| GPU | 蓝宝石RX6600XT 8G |
+| 硬盘 | WD SN850X 1T |
+| Wifi+Buletooth | 尚未安装 |
