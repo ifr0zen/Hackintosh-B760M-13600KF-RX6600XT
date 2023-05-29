@@ -1,0 +1,1 @@
+# MSI-B760M-Mortar-DDR4-13600KF
