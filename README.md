@@ -1,4 +1,4 @@
-# MSI-B760M-Mortar-DDR4-13600KF
+# [MAG B760M MORTAR DDR4](https://www.msi.com/Motherboard/MAG-B760M-MORTAR-DDR4)
 
 | 硬件 | 型号 |
 | :-----| ----: |
@@ -8,5 +8,3 @@
 | GPU | AMD Radeon™ RX 6600 XT 8G 蓝宝石超白金 |
 | 硬盘 | WD SN850X 1T |
 | Wifi+Buletooth | BCM94360CD |
-
-
