@@ -10,4 +10,4 @@
 | Wi-Fi+Buletooth | BCM94360CD |
 | OS | macOS 12.7.1 (21G920) |
 
-<img width="973" alt="QQ20231206-141909@2x" src="https://github.com/ifr0zen/Hackintosh-B760M-13600KF-RX6600XT/assets/17274321/16fab580-0d09-4559-9abb-7c20e2a727e6">
+<img width="999" alt="image" src="https://github.com/ifr0zen/Hackintosh-B760M-13600KF-RX6600XT/assets/17274321/4909d339-4132-4876-804f-dfa8959526fc">
