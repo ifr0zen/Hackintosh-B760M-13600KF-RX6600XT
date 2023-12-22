@@ -6,7 +6,7 @@
 | 主板 | MSI B760M MORTAR DDR4 |
 | 内存 | 64G （金百达 DDR4 3600MHz 32Gx2) |
 | GPU | AMD Radeon™ RX 6600 XT 8G 蓝宝石超白金 |
-| 硬盘 | WD SN850X 1T |
+| 硬盘 | WD SN850X 2T |
 | Wi-Fi+Buletooth | BCM94360CD |
 | OS | macOS 12.7.1 (21G920) |
 
