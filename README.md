@@ -11,6 +11,7 @@
 | OS | macOS 12.7.1 (21G920) |
 
 https://browser.geekbench.com/v6/cpu/3877267
+
 注意⚠️自0.9.8开始ACPI为根据MSI Mortar B760M主板手动编译，其他型号如报错可选择0.9.7或更早版本再升级至最新版本
 
 <img width="999" alt="image" src="https://github.com/ifr0zen/Hackintosh-B760M-13600KF-RX6600XT/assets/17274321/4909d339-4132-4876-804f-dfa8959526fc">
