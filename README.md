@@ -8,7 +8,7 @@
 | GPU | AMD Radeon™ RX 6600 XT 8G 蓝宝石超白金 |
 | 硬盘 | WD SN850X 2T |
 | Wi-Fi+Buletooth | BCM94360CD |
-| OS | macOS 12.7.1 (21G920) |
+| OS | macOS 12.7.6 (21H1320) |
 
 https://browser.geekbench.com/v6/cpu/3877267
 
